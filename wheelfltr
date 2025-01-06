@@ -1,0 +1,11 @@
+{
+    "WheelEnable": false,
+    "WheelLang": ["Russian"],
+    "WheelTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "WheelLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
